@@ -8,6 +8,11 @@
 
 ## Early Procedure
 
+
+![Screenshot 2024-11-22 163848](https://github.com/user-attachments/assets/c656d8c6-b10a-461d-89f8-b360b2548abf)
+![image](https://github.com/user-attachments/assets/71f8cfe4-5ca2-493c-82f4-654ce7922451)
+![image](https://github.com/user-attachments/assets/8d069cca-d60c-4d3e-ba4f-e3dec91fdc17)
+![Screenshot 2024-11-22 163834](https://github.com/user-attachments/assets/d5f694dc-2305-498e-84c2-e8d5523754b6)
 |![Screenshot 2024-11-22 162218](https://github.com/user-attachments/assets/c4eef056-c376-4556-a8bf-52a5d1d77a85)
 
 ## Create Repository
