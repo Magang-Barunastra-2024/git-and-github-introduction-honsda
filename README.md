@@ -3,7 +3,6 @@
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
-
 | Muhammad Abdullah   | PGR | Vision & Control |
 
 
